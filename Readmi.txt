@@ -8,3 +8,6 @@ git push -u origin main
 git remote add origin https://github.com/RupaliMamale-5/Full-stack-Development.git
 git branch -M main
 git push -u origin main
+
+ls -la
+
